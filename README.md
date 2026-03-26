@@ -1,7 +1,7 @@
 # License-Plate-Detection-using-OpenCV-and-Haar-Cascade
 
-### NAME: AANKARSH J
-### Reg no: 212223233001
+### NAME: VINOLIA ALAINA. R
+### Reg no: 212224240184
 
 
 ## Project Overview
